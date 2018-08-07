@@ -1,0 +1,67 @@
+{
+  "BACK_BUTTON_TEXT": "Back",
+
+  "NAME": "Name",
+  "EMAIL": "Email",
+  "USERNAME": "Username",
+  "PASSWORD": "Password",
+  "LOGIN": "Sign in",
+  "SIGNUP": "Sign up",
+
+  "TAB1_TITLE": "Therapist",
+  "TAB2_TITLE": "Search",
+  "TAB3_TITLE": "Profile",
+
+  "MAP_TITLE": "Map",
+
+  "TUTORIAL_SKIP_BUTTON": "Skip",
+  "TUTORIAL_CONTINUE_BUTTON": "Continue",
+
+  "TUTORIAL_SLIDE1_TITLE": "Welcome to OT Circle",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "The <b>App for OTs by OTs</b> is a fully-featured to share best practices.",
+
+  "TUTORIAL_SLIDE2_TITLE": "How to use OT Circle",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "First sign up, with your email address",
+  "TUTORIAL_SLIDE3_TITLE": "Now you are ready to share your Outcomes or anything you find Useful to the community",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "Awesome, let's get started",
+
+  "TUTORIAL_SLIDE4_TITLE": "Join the Circle",
+
+  "WELCOME_INTRO": "The OT Circle App",
+
+  "SETTINGS_TITLE": "Profile",
+  "SETTINGS_OPTION1": "License",
+  "SETTINGS_OPTION2": "Concentration",
+  "SETTINGS_OPTION3": "State",
+  "SETTINGS_OPTION4": "Education",
+
+  "SETTINGS_PROFILE_BUTTON": "Edit Profile",
+
+  "SETTINGS_PAGE_PROFILE": "Edit Profile",
+
+  "WELCOME_TITLE": "Welcome",
+
+  "LOGIN_TITLE": "Sign in",
+  "LOGIN_ERROR": "Unable to sign in. Please check your account information and try again.",
+  "LOGIN_BUTTON": "Sign in",
+  "SIGNUP_TITLE": "Sign up",
+  "SIGNUP_ERROR": "Unable to create account. Please check your account information and try again.",
+  "SIGNUP_BUTTON": "Sign up",
+
+  "LIST_MASTER_TITLE": "Therapist",
+
+  "ITEM_CREATE_TITLE": "New Entry",
+  "ITEM_CREATE_CHOOSE_IMAGE": "Add Image",
+
+  "ITEM_NAME_PLACEHOLDER": "Name",
+  "ITEM_ABOUT_PLACEHOLDER": "Location",
+
+  "DONE_BUTTON": "Done",
+  "CANCEL_BUTTON": "Cancel",
+  "DELETE_BUTTON": "Delete",
+
+  "CARDS_TITLE": "The Circle",
+
+  "SEARCH_TITLE": "Search",
+  "SEARCH_PLACEHOLDER": "Search the items list, e.g. \"Dr. Gibbs\""
+}
